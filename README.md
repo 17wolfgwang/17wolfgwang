@@ -40,7 +40,7 @@
 
   ### ✍&nbsp;&nbsp;Study Log
   ---
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wolfgwang)](https://velog.io/@dkzks44)
+  <a href="https://velog.io/@dkzks44"><img src="https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white"/></a></br>
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dkzks44)]((https://velog.io/@dkzks44)https://velog.io/@dkzks44)
 
   
