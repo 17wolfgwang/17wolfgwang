@@ -1,10 +1,11 @@
 <div align="center">
 
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=<About/>&fontColor=ffffff&fontSize=70&fontAlignY=40&color=000000)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=17wolfgwang&fontColor=000000&fontSize=70&fontAlignY=40&color=ffd800)
 
+
+  ### 💻&nbsp;&nbsp;Once I've use...</br>
   ---
-  💻&nbsp;&nbsp;Once I've use...</br>
   </br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=black"/>
@@ -36,14 +37,12 @@
   </br>
   </br>
   
+
+  ### ✍&nbsp;&nbsp;Study Log
   ---
-  ✍&nbsp;&nbsp;Study Log
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wolfgwang)](https://velog.io/@dkzks44)</br>
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wolfgwang)](https://velog.io/@dkzks44)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dkzks44)]((https://velog.io/@dkzks44)https://velog.io/@dkzks44)
-  
-  
-  
+
   
   
 </div>
